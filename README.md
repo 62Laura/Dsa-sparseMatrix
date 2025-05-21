@@ -13,4 +13,4 @@ Just run the `main.py` file. It automatically:
 
 - `sample_results/addition_result.txt`
 - `sample_results/subtraction_result.txt`
-- `sample_results/multiplication_result.txt` (only if dimensions allow)
+- `sample_results/multiplication_result.txt`
